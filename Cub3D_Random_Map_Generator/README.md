@@ -1,6 +1,6 @@
 # Cub3D random maze generator
 
-## Important information
+## Important informations
 
 - This generator was initialy made for my Wolf3D project, some features are now useless for the new Cub3D project.
 - Therefore, this generator only builds rectangle closen maps.
@@ -68,7 +68,7 @@ Will display a basic usage.
 ./generator -e0240
 ```
 
-The -e0240 flag here will generate a samble 11x11 valid maze with a reasonable amout of sprites.
+The -e0240 flag here will generate a sample 11x11 valid maze with a reasonable amout of sprites.
 Use -e02(frequency) for Cub3D, (frequency : 10 : low amount of sprites, 40 : moderate amount of sprites, 100 : high amount of sprites)
 
 - Few interesting parameters combinaisons 
